@@ -270,3 +270,4 @@ No. The goal is to alternate. Start with 15–30 minutes of standing per hour an
 Standing desk converters are the lowest-friction way to improve your workstation ergonomics. Your back will thank you — and most models pay for themselves in avoided chiropractor visits.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*
+
