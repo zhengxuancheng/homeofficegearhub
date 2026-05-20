@@ -1,0 +1,27 @@
+baseURL: "https://homeofficegearhub.pages.dev/"
+locale: "en-us"
+title: "Home Office Gear Hub"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  env: production
+  description: "Expert guides and reviews for home office equipment — standing desks, ergonomic chairs, monitor arms, keyboards, and workspace accessories."
+  author: "Home Office Gear Hub Team"
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  
+  homeInfoParams:
+    Title: "Home Office Gear Hub 🖥️"
+    Content: "We review and compare the best home office equipment. Standing desks, ergonomic chairs, monitor arms — everything you need for a comfortable, productive workspace."
+
+  socialIcons: []
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
