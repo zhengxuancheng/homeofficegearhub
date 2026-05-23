@@ -41,7 +41,7 @@ This is where cheap converters fall apart. At standing height, a wobbly desk con
 
 ### 1. VariDesk Pro Plus 36 — Best Overall
 
-{{< affiliate-link asin="B00M37684G" >}}
+{{< affiliate-link asin="B00JI6NCCK" >}}
 
 The VariDesk Pro Plus 36 is the benchmark by which all other converters are judged. Its heavy-duty spring-assisted lift mechanism makes transitioning from sit to stand nearly effortless, and stability at full height is unmatched in this category.
 
