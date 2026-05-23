@@ -53,7 +53,7 @@ Most chairs in this category ship in pieces and take 20–40 minutes to assemble
 
 ### 1. SIDIZ T50 Home Edition — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08ZK3L5FP" >}}
 
 The SIDIZ T50 is the closest you'll get to a premium ergonomic chair without breaking the $300 ceiling. Designed in South Korea by a company that builds chairs for offices and gaming alike, the T50 offers an adjustability suite that rivals chairs costing twice as much. The 3D armrests, seat depth slider, and synchro-tilt mechanism with adjustable tension are simply not found on most chairs at this price.
 
@@ -82,7 +82,7 @@ The SIDIZ T50 is the closest you'll get to a premium ergonomic chair without bre
 
 ### 2. Branch Ergonomic Chair — Best Premium Pick Under $300
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0925FVK6Z" >}}
 
 Branch made its name selling directly to startups and tech companies, and their Ergonomic Chair brings that commercial-grade design to home offices. At $299 (often on sale for $269–$289), it sits right at the top of our budget. The 3D armrests, adjustable lumbar, and 7-year warranty make it feel like a professional investment rather than a budget compromise.
 
@@ -111,7 +111,7 @@ Branch made its name selling directly to startups and tech companies, and their 
 
 ### 3. Union & Scale FlexFit Hyken — Best Mesh Chair
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07H4PWS5P" >}}
 
 The Hyken (sold at Staples as the Union & Scale FlexFit Hyken) has been a budget ergonomic icon for years — and the 2025 refresh keeps it competitive. With a full mesh back, adjustable headrest, and a surprisingly good lumbar system for the price, it's the best pure mesh chair under $200. Regular sales drop it to the $150–$170 range, making it an incredible value.
 
@@ -140,7 +140,7 @@ The Hyken (sold at Staples as the Union & Scale FlexFit Hyken) has been a budget
 
 ### 4. Hbada E3 Ergonomic Chair — Best for Big & Tall Users
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0BZ87VM4S" >}}
 
 The Hbada E3 is built like a tank compared to most chairs in this price range. With a 300 lb weight capacity, extra-wide seat, and a three-zone lumbar support system that actually wraps around your lower back, it's our top recommendation for larger users. The 135° recline is deeper than almost any competitor, doubling as a nap chair for lunch breaks.
 
@@ -169,7 +169,7 @@ The Hbada E3 is built like a tank compared to most chairs in this price range. W
 
 ### 5. Ticova Ergonomic Office Chair — Best Budget Pick
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08DZS8BZS" >}}
 
 The Ticova Ergonomic Office Chair is proof that you don't need to spend $200 to get real ergonomics. At $120–$160, it includes adjustable lumbar support (height and depth), 3D armrests, and an adjustable headrest — features that some $250 chairs don't offer. If you're outfitting a home office on a tight budget, this is where you start.
 
@@ -198,7 +198,7 @@ The Ticova Ergonomic Office Chair is proof that you don't need to spend $200 to 
 
 ### 6. Gabrylly Ergonomic Mesh Chair — Best Full-Mesh Design
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07YZXPPQ5" >}}
 
 The Gabrylly Ergonomic Mesh chair takes ventilation seriously — both the back and seat are mesh, making it the coolest chair in this roundup. It's a popular Amazon bestseller with over 10,000 reviews, and for good reason: the wide seat, flip-up armrests, and included headrest make it versatile for both work and casual use.
 
@@ -227,7 +227,7 @@ The Gabrylly Ergonomic Mesh chair takes ventilation seriously — both the back 
 
 ### 7. Colamy Atlas — Best 4D Armrests Under $300
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0C5XX4ZPF" >}}
 
 The Colamy Atlas is the dark horse in this roundup. It's the only chair under $300 to offer true 4D armrests — height, angle, fore/aft, and lateral (side-to-side) adjustment. Combined with a multi-tilt mechanism and built-in lumbar adjustment, it competes directly with chairs in the $400–$500 range on paper.
 

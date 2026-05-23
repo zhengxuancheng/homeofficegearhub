@@ -44,7 +44,7 @@ A good monitor arm hides the power and video cables inside the arm itself, keepi
 
 ### 1. Ergotron LX Single Monitor Arm — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00358RIRC" >}}
 
 The Ergotron LX is the gold standard in monitor arms. Its polished aluminum construction, buttery-smooth gas spring motion, and 10-year warranty make it the arm that every competitor measures itself against. It handles monitors up to 25 lbs and 34\", glides effortlessly across a 25\" height range, and looks stunning doing it. If you want a monitor arm that will outlast your current desk, your current monitor, and possibly your current apartment, this is it.
 
@@ -75,7 +75,7 @@ The Ergotron LX is the gold standard in monitor arms. Its polished aluminum cons
 
 ### 2. Amazon Basics Single Monitor Arm — Best Ergotron Alternative
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00MIBN16O" >}}
 
 Here's an open secret: the Amazon Basics Single Monitor Arm is a rebadged Ergotron LX at roughly $30–$40 less. Same gas spring mechanism, same build quality, same 25 lb weight limit, same 10-year warranty — just with an Amazon Basics logo instead of an Ergotron one. The finish is slightly less refined (more matte, less polished aluminum), but functionally it's identical.
 
@@ -104,7 +104,7 @@ Here's an open secret: the Amazon Basics Single Monitor Arm is a rebadged Ergotr
 
 ### 3. HUANUO Gas Spring Single Monitor Arm — Best Value Gas Spring
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07P6HMZLX" >}}
 
 HUANUO's single gas spring arm delivers about 85% of the Ergotron experience at roughly 40% of the price. The gas spring is smooth (though not Ergotron-smooth), the cable management channels work well, and it includes a USB passthrough cable in the arm — a small but thoughtful touch. It supports monitors up to 26.4 lbs and 35\", covering most home office screens.
 
@@ -135,7 +135,7 @@ HUANUO's single gas spring arm delivers about 85% of the Ergotron experience at 
 
 ### 4. VIVO STAND-V001 — Best Budget Single Arm
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00B21TLQU" >}}
 
 The VIVO STAND-V001 proves you don't need to spend $100 to get your monitor off the desk. This is a simple mechanical spring arm with a pole-mount design — no gas strut, no floating motion, just solid adjustability at a rock-bottom price. It holds up to 17.6 lbs (enough for most 24\"–27\" monitors) and includes clamp and grommet mounting options. At this price, it's the easiest ergonomic upgrade you'll ever make.
 
@@ -166,7 +166,7 @@ The VIVO STAND-V001 proves you don't need to spend $100 to get your monitor off 
 
 ### 5. WALI Dual Monitor Arm Mount — Best Budget Dual
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B01L0ZHISM" >}}
 
 WALI's dual monitor arm delivers one of the best value propositions in the entire monitor arm market: two fully articulating arms on a single pole for under $70. Each arm supports up to 22 lbs independently, so you can mix and match monitor sizes. The mechanical spring design uses a tension adjustment that, once dialed in, holds position reliably. For dual-monitor productivity on a budget, this is the arm to beat.
 
@@ -197,7 +197,7 @@ WALI's dual monitor arm delivers one of the best value propositions in the entir
 
 ### 6. MOUNT PRO Dual Gas Spring Monitor Mount — Best Premium Dual
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07PDTRYLC" >}}
 
 MOUNT PRO's dual gas spring mount is the dual-monitor equivalent of a premium single arm. Each arm has an independent gas spring mechanism rated for 17.6 lbs, and the full articulating design means you can pull one monitor forward for focused work while keeping the other at reference distance. The integrated cable management channels are enclosed (not clips), and the build quality is a clear step above budget dual arms.
 
