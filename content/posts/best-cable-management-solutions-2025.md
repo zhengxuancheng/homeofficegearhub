@@ -11,7 +11,7 @@ draft: false
 
 Here's the thing about cable management. The reason it matters is practical. How often do you crawl under your desk to plug something back in? Untangle your headphone cable from your monitor one? Yank a charging cable off your desk because it snagged on your chair? A well-organized cable setup saves you time and frustration every day.
 
-But half the cable management products on Amazon are junk — low-quality adhesive that peels off in a week, raceways that don't fit the cables you actually have, and trays that rattle or bend out of shape. We tested the most common categories of cable management to find the ones that work.
+But half the cable management products on Amazon are junk: low-quality adhesive that peels off in a week, raceways that don't fit the cables you actually have, and trays that rattle or bend out of shape. We tested the most common categories of cable management to find the ones that work.
 
 ## Our Testing Criteria
 

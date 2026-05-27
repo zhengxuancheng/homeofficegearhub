@@ -10,7 +10,7 @@ draft: false
 
 Modern laptops are thinner, lighter, and faster than ever — and they've lost nearly every port that made them useful. Most ultrabooks and MacBooks now ship with two or three USB-C ports and nothing else: no HDMI, no SD card slot, no USB-A, no Ethernet. If you want to plug in a monitor, a hard drive, a keyboard, and an SD card at the same time, you need a hub or a docking station.
 
-But hubs are not all created equal. A cheap $25 hub might overheat, drop your external display mid-meeting, or deliver a trickle of power to your laptop. A good hub or dock — with proper port allocation, reliable passthrough charging, and stable display output — can be the central nervous system of your entire desk setup. In this guide, we tested and compared the 6 best USB-C hubs and docking stations of 2025, from pocket-sized $30 adapters to Thunderbolt 4 docks that drive dual 4K displays at 60Hz.
+But hubs are not all created equal. A cheap $25 hub might overheat, drop your external display mid-meeting, or deliver a trickle of power to your laptop. A good hub or dock, with proper port allocation, reliable passthrough charging, and stable display output, is the thing everything else on your desk plugs into. We tested 6 of the best USB-C hubs and docking stations of 2025: pocket-sized $30 adapters, mid-range multiport hubs, and Thunderbolt 4 docks that drive dual 4K displays at 60Hz.
 
 ## What to Look For in a USB-C Hub or Docking Station
 
@@ -299,6 +299,6 @@ Generally yes, but with two precautions. First, don't leave a hub connected whil
 
 - **Best multiport hub:** Belkin Connect 11-in-1 — the highest port density in a pocket-sized hub. Dual 4K @ 60Hz (Windows), 100W passthrough, three USB-A ports, Ethernet, and a 3.5mm audio jack. The all-in-one solution for Windows users who want everything in one compact device.
 
-A good USB-C hub or dock is the unsung hero of a modern desk setup. It's the thing you plug everything into so you only have to plug one thing into your laptop. Whether you spend $35 on an Anker hub or $400 on a CalDigit TS4, the right choice transforms your laptop from a port-starved minimalist slab into the center of a fully connected, ergonomic, multi-monitor workstation. That single-cable click when you sit down at your desk — that's the sound of a well-built dock earning its keep.
+A good USB-C hub or dock is the thing you plug everything into so you only have to plug one thing into your laptop. Spend $35 on an Anker hub and you get a clean single-monitor desk with all the ports you need for a standard setup. Spend $400 on a CalDigit TS4 and you get dual 4K displays, 98W charging, and more ports than most desktops. Both are valid. The right one depends on how many monitors you run and how much you're willing to spend to never think about cables again.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you. This does not influence our recommendations.*

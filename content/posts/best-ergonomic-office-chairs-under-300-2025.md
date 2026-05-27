@@ -13,7 +13,7 @@ You sit in your office chair for 40+ hours a week. If you're still using a $79 b
 
 The good news? You don't need to spend $1,500 on a Herman Miller Aeron to get real ergonomics. The sub-$300 market has exploded with genuinely well-designed chairs that offer adjustable lumbar support, multi-dimensional armrests, and breathable mesh backs — features that were exclusive to premium chairs just a few years ago.
 
-In this guide, we tested and compared the 7 best ergonomic office chairs under $300 available in 2025.
+We tested and compared 7 ergonomic office chairs under $300 available in 2025.
 
 ## What to Look For in an Ergonomic Office Chair Under $300
 
@@ -288,7 +288,7 @@ With daily use (8+ hours, 5 days a week), expect 3–6 years before the seat cus
 
 ### Can I use an ergonomic chair on carpet?
 
-Yes, all of the chairs in this guide work on both carpet and hard floors. Most ship with standard nylon casters that roll smoothly on low-to-medium-pile carpet. For thick or shag carpet, consider replacing the casters with rollerblade-style wheels ($25–$40 on Amazon) — they glide more easily and won't snag carpet fibers. Some chairs (like the Branch) come with higher-quality casters out of the box. If you're on hardwood or laminate, check that the casters are rated for hard floors to avoid scratching.
+Yes, all of these chairs work on both carpet and hard floors. Most ship with standard nylon casters that roll smoothly on low-to-medium-pile carpet. For thick or shag carpet, consider replacing the casters with rollerblade-style wheels ($25–$40 on Amazon) — they glide more easily and won't snag carpet fibers. Some chairs (like the Branch) come with higher-quality casters out of the box. If you're on hardwood or laminate, check that the casters are rated for hard floors to avoid scratching.
 
 ---
 
@@ -308,6 +308,6 @@ Yes, all of the chairs in this guide work on both carpet and hard floors. Most s
 
 - **Best 4D armrests:** Colamy Atlas — the only chair under $300 with true 4D armrests. A strong all-around pick that punches above its price.
 
-Your office chair is the piece of equipment you use more than any other — more than your keyboard, your monitor, even your phone. Spending $200–$300 on a chair that supports your spine and keeps you comfortable through a full workday is one of the best investments you can make in your health and productivity.
+Your office chair gets more hours of use than your keyboard, your monitor, or your phone. Spending $200–$300 on a chair that supports your spine and keeps you comfortable through a full workday is money well spent.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you. This does not influence our recommendations.*

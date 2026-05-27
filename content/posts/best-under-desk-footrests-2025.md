@@ -11,7 +11,7 @@ draft: false
 
 Most ergonomics advice focuses on your chair, your monitor height, and your keyboard position. But if your feet are dangling or awkwardly tucked under your chair, your entire sitting posture suffers. An under-desk footrest aligns your hips, reduces pressure on your lower back, and keeps your legs at the proper 90-degree angle.
 
-We tested 6 of the best under-desk footrests in 2025 — from adjustable platforms to rocking footrests to memory foam cushions. Here's what made a measurable difference.
+We tested 6 under-desk footrests in 2025: adjustable platforms, rocking models, and memory foam cushions. Here's what we found.
 
 ## What to Look For
 
@@ -187,11 +187,11 @@ Your knees should bend at approximately 90 degrees with your feet flat on the fo
 
 ### Do rocking footrests actually help?
 
-Yes — users consistently report less leg fatigue and better focus with rocking footrests. The subtle motion keeps blood flowing in your calves and prevents the stiffness that comes from holding a fixed position for hours. If you fidget, you'll love rocking. If you prefer stillness, skip it.
+Yes. Users consistently report less leg fatigue and better focus with rocking footrests. The subtle motion keeps blood flowing in your calves and prevents the stiffness that comes from holding a fixed position for hours. If you fidget, you'll love rocking. If you prefer stillness, skip it.
 
 ### Can I just use a box or stack of books?
 
-In the short term, yes — any stable platform that puts your feet at the right height is better than dangling. But cardboard boxes compress, and books are usually the wrong height. A proper footrest with a non-slip base and contoured surface is a one-time $30 purchase that lasts years. Your spine will notice the difference.
+In the short term, yes. Any stable platform that puts your feet at the right height beats dangling your legs. But cardboard boxes compress, and a stack of books is never the right height. A proper footrest with a non-slip base and contoured surface costs about $30 once, and it'll last years. Your spine will notice the difference.
 
 ---
 
@@ -204,6 +204,6 @@ In the short term, yes — any stable platform that puts your feet at the right 
 - **Built like furniture:** StrongTek — hardwood, silent, beautiful
 - **Just trying the concept:** Mind Reader — $15 to see if footrests work for you
 
-If your feet don't comfortably reach the floor when you're sitting, you need a footrest. It's the cheapest ergonomic upgrade with the highest daily impact — you use it every second you're at your desk.
+If your feet don't comfortably reach the floor when you're sitting, you need a footrest. It costs less than most ergonomic upgrades and you use it every second you're at your desk. That's hard to beat for $30.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

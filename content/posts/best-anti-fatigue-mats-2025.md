@@ -9,9 +9,9 @@ description: "Working at a standing desk? An anti-fatigue mat makes standing bea
 draft: false
 ---
 
-Standing at your desk sounds healthy until you actually do it for 6 hours. After about 45 minutes, your feet start to ache. By hour two, you're shifting weight like a flamingo. The problem isn't standing itself — it's standing on a hard surface that compresses your joints and restricts blood flow. An anti-fatigue mat is the fix.
+Standing at your desk sounds healthy until you actually do it for 6 hours. After about 45 minutes, your feet start to ache. By hour two, you're shifting weight like a flamingo. The problem isn't standing itself. It's standing on a hard surface that compresses your joints and restricts blood flow. An anti-fatigue mat is the fix.
 
-We tested 6 of the best anti-fatigue mats in 2025 across four categories: gel-core mats for maximum comfort, dense foam for durability, cork for natural warmth, and commercial-grade for heavy use. Each one was tested for at least 20 hours of standing over two weeks. Here's what we found.
+We tested 6 anti-fatigue mats across four categories — gel-core for max comfort, dense foam for durability, cork for natural warmth, and commercial-grade for heavy use. Each one got at least 20 hours of standing over two weeks.
 
 ## What to Look For
 
@@ -235,7 +235,7 @@ The beveled edge is functional but minimal. The non-slip bottom works well on ha
 
 ### Do I really need an anti-fatigue mat for my standing desk?
 
-If you stand on concrete, tile, or hardwood, yes — within 30 minutes, your body starts compensating with micro-adjustments that strain your feet, knees, and lower back. A 3/4-inch mat reduces perceived fatigue by 40 to 60 percent in most users. If you stand on thick carpet, you may not need one — carpet provides natural cushioning. Most office carpet is too thin to help.
+If you stand on concrete, tile, or hardwood, yes. Within 30 minutes, your body starts compensating with micro-adjustments that strain your feet, knees, and lower back. A 3/4-inch mat reduces perceived fatigue by 40 to 60 percent in most users. If you stand on thick carpet, you may not need one — carpet provides natural cushioning. Most office carpet is too thin to help.
 
 ### How thick should an anti-fatigue mat be?
 
